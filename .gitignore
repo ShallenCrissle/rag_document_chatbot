@@ -8,3 +8,4 @@ uploaded/
 *.sqlite3
 *.log
 venv/
+.huggingface/

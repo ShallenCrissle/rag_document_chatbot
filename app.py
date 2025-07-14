@@ -14,6 +14,7 @@ import os
 GROQ_API_KEY = os.getenv("GROQ_API_KEY")
 
 GROQ_MODEL = "llama3-70b-8192"  
+os.environ["HUGGINGFACE_HUB_TOKEN"] = os.getenv("HF_TOKEN")
 
 # Extract text from PDF
 def extract_text_from_pdf(pdf_path):
