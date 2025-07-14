@@ -9,4 +9,4 @@ uploaded/
 *.log
 venv/
 .huggingface/
-
+.streamlit/secrets.toml
