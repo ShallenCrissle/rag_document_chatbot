@@ -41,7 +41,7 @@ To improve speed, reduce RAM usage, and make it deployment-ready, the app was up
 
 ### 1. Clone this repo
 
-git clone https://github.com/your-username/rag_document_chatbot.git
+git clone https://github.com/ShallenCrissle/rag_document_chatbot.git
 
 cd rag_document_chatbot
 ### 2.Create and Activate a Virtual Environment
